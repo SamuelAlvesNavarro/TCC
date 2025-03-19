@@ -1,6 +1,6 @@
 # TCC
 
-**_Link localhost_** -> localhost/TCC-escravo-do-capitalismo/
+**_Link localhost_** -> localhost/TCC/
 
 https://historiasassombradas.000webhostapp.com/ - link do site
 
